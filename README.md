@@ -2,7 +2,7 @@
 
 ![:name](https://count.getloli.com/get/@lalalaji)
 
-## 🪜[无障碍科学上网指南](https://lalalaji.tk)
+## 🪜[无障碍科学上网指南](https://lalalaji.xyz)
 
 ![](https://img.shields.io/badge/shadowsocks-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/clash-yellow?style=for-the-badge)
